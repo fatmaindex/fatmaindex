@@ -22,7 +22,6 @@ Currently working on:
 - 🎨 Building scalable, reusable UI components with Angular & React
 - 🔗 Full-stack integration with Node.js & Express
 
-🚀 Open to Frontend / Full Stack opportunities and new challenges.
 
 ---
 
@@ -109,18 +108,14 @@ Dual-app system: User Portal (submission/voting) + Admin Dashboard (moderation),
 
 **[GitHub](#) | [Live Demo](#)**
 
-### 🏦 Bank Dashboard UI
-`JavaScript` `SASS` `Chart.js` — Figma-to-code dashboard with interactive financial data visualizations.
+
 
 ---
 
 ## 🎓 Education
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
 Al-Azhar University, Cairo
-- Participated in AZEX 2023 Exhibition with "Your Space" mental health platform — Certificate of Appreciation
-- Member of IEEE Al-Azhar since 2022
 
----
 
 ## 📫 Connect with Me
 
