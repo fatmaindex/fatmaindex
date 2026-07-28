@@ -61,57 +61,6 @@ Currently working on:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### 🏙️ Aman Smart City — Graduation Project (Full Stack)
-`React 19` `TypeScript` `TanStack Query` `Zustand` `Tailwind CSS v4` `Node.js` `Express` `Socket.io`
-
-Real-time smart city monitoring platform detecting hazards via AI vision & IoT sensors.
-- Built the Police Dashboard UI (Figma → React + Tailwind components)
-- Real-time Air Quality module combining 4 IoT sensors (REST + WebSocket hybrid, self-healing reconnection)
-- Real-time alert system with priority-based sorting & smart routing
-- Live camera streaming with HLS.js, Feature-based Architecture + Atomic Design across 6+ modules
-
-**[GitHub](#) | [Live Demo](#)**
-
-### 🛒 E-Commerce Angular Website (Full Stack)
-`Angular 17` `TypeScript` `RxJS` `SCSS` `Node.js` `Express`
-
-- Feature-based Architecture with Standalone Components & Lazy Loading
-- Secure JWT auth flow with HTTP Interceptors, HttpOnly Secure Cookies, Bcrypt
-- Advanced Filtering/Sorting/Pagination powered by RxJS streams
-- Custom Node.js + Express RESTful backend
-
-**[GitHub](#)**
-
-### 🛍️ Lumia E-Commerce Platform
-`React` `Redux Toolkit` `Tailwind CSS` `Supabase`
-
-- Mobile-first, fully responsive e-commerce app
-- Supabase Auth with personalized carts & wishlists
-- Category filtering, search, pagination
-- State managed with Redux Toolkit + Redux Persist, lazy-loaded images
-
-**[GitHub](#) | [Live Demo](#)**
-
-### 💡 Idea Bank
-`Angular` `TypeScript` `RxJS` `JSON Server`
-
-Dual-app system: User Portal (submission/voting) + Admin Dashboard (moderation), with scoring logic across Alignment, Innovation, Feasibility & Scalability. Routes secured with AuthGuards using RxJS BehaviorSubjects.
-
-**[GitHub](#)**
-
-### 🎨 Personal Portfolio Website
-`React.js` `SASS` — 95% Lighthouse performance score across all devices.
-
-**[GitHub](#) | [Live Demo](#)**
-
-
-
----
-
 ## 🎓 Education
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
 Al-Azhar University, Cairo
