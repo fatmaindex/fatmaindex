@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hi, I'm Fatma! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:764ABC&height=200&section=header&text=Fatma%20Gamal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Angular%20%26%20React%20%7C%20Full%20Stack%20with%20Node.js&descAlignY=55&descSize=18" width="100%"/>
 
-<span style="color:#38bdf8">**Frontend Developer | Angular & React | Full Stack with Node.js**</span>
-
-*Turning designs into fast, clean, real-time web experiences*
+<a href="https://github.com/fatmaindex">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+designs+into+real-time+web+experiences;Clean+Code+%7C+SOLID+Principles+%7C+Scalable+Architecture;Angular+18%2B+%7C+React.js+%7C+Node.js+%2B+Express" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -12,16 +12,15 @@
 
 ## 👩‍💻 About Me
 
-🔹 **Name:** Fatma Gamal
-🎯 I'm a **Frontend Developer** with hands-on experience in **Angular 18+** and **React.js**, and Full Stack development using **Node.js**.
+🎯 Frontend Developer specialized in **Angular 18+** and **React.js**, with a Full Stack layer built on **Node.js** and **Express**.
 
-I focus on clean, maintainable code, **SOLID principles**, and seamless Frontend–Backend integration through **REST APIs, WebSocket, and real-time data flows**.
+Clean, maintainable code and **SOLID principles** are non-negotiable — every project is built to be read and extended by someone else, not just to work. Most of the work lives at the intersection of frontend polish and real-time systems: **REST APIs, WebSockets, and live data flows** that actually hold up under bad network conditions.
 
-Currently working on:
-- 🏙️ Real-time systems (WebSocket, Socket.io, live dashboards)
-- 🎨 Building scalable, reusable UI components with Angular & React
-- 🔗 Full-stack integration with Node.js & Express
-
+**Currently exploring:**
+- 🏙️ Real-time dashboards powered by WebSocket & Socket.io
+- 🎨 Scalable, reusable UI components across Angular & React
+- 🔗 End-to-end integration with Node.js & Express backends
+- 🤖 AI tools & prompt engineering to build faster, smarter
 
 ---
 
@@ -61,13 +60,87 @@ Currently working on:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🎓 Education
-**Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
-Al-Azhar University, Cairo
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fatmaindex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaindex&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaindex&theme=tokyonight&hide_border=true" width="65%"/>
+
+</div>
+
+> ⚠️ Replace `fatmaindex` above with your exact GitHub username if it's different — these widgets pull live data straight from your GitHub account, no setup needed.
+
+---
+
+## 🐍 Contribution Snake (optional, animated)
+
+A nice extra touch: a snake that "eats" your contribution graph, generated automatically by a GitHub Action.
+
+1. Add this workflow file to your profile repo at `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-snake
+          path: dist/*.svg
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+```
+
+2. Then embed it here:
+
+```md
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatmaindex/fatmaindex/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/fatmaindex/fatmaindex/output/github-snake.svg" />
+</picture>
+```
+
+Once the Action runs once, the snake animates automatically every day — no manual updates needed.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
+**Al-Azhar University, Cairo**
+
+---
 
 ## 📫 Connect with Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/fatma-gamal-dev)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmagamal.webdev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://fatmaindex.github.io/My-Portfolio)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ABC,100:38bdf8&height=100&section=footer" width="100%"/>
