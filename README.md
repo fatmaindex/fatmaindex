@@ -23,7 +23,7 @@ I enjoy solving real-world challenges, especially those involving **real-time co
 - 🤖 Exploring AI-powered features to improve user experience
 - 📈 Writing clean, performant, and production-ready code
 
-> "I don't just build interfaces—I engineer experiences that remain reliable, scalable, and easy to maintain as products grow."
+ "I don't just build interfaces—I engineer experiences that remain reliable, scalable, and easy to maintain as products grow."
 
 ---
 
