@@ -131,7 +131,7 @@
   </text>
 
   <text x="600" y="230" text-anchor="middle" font-family="Consolas, Menlo, monospace"
-        font-size="14" fill="#7dd3fc" opacity="0.85">
+        font-size="16" font-weight="600" fill="#e0f2fe" opacity="1">
     Building systems that scale — and interfaces that impress
   </text>
 </svg>
