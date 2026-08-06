@@ -6,30 +6,24 @@
 
 ---
 
-<h2 align="center">👩‍💻 The Dev Behind the Code</h2>
+## 🛠 My Engineering Mindset
 
-<div align="center">
+I believe great software is more than just working code—it's code that is **clear, maintainable, and built to evolve**.
 
-🎯 Frontend Developer specialized in **Angular 18+** and **React.js**, with a Full Stack layer built on **Node.js** and **Express**.
+My focus is on creating scalable applications with clean architecture, reusable components, and intuitive user experiences. Every feature I build is designed with performance, readability, and long-term maintainability in mind.
 
-Clean, maintainable code and **SOLID principles** are non-negotiable — every project is built to be read and extended by someone else, not just to work. Most of the work lives at the intersection of frontend polish and real-time systems: **REST APIs, WebSockets, and live data flows** that actually hold up under bad network conditions.
+I enjoy solving real-world challenges, especially those involving **real-time communication**, **interactive dashboards**, and **high-performance frontend applications**.
 
+### 🚀 What I Focus On
 
-<div align="left">
+- ⚡ Building scalable Angular & React applications
+- 🧩 Designing reusable and maintainable UI components
+- 🔄 Developing real-time experiences with WebSockets & Socket.io
+- 🔌 Integrating robust REST APIs and backend services
+- 🤖 Exploring AI-powered features to improve user experience
+- 📈 Writing clean, performant, and production-ready code
 
-**Currently Focused On:**
-
-🏙️ Real-time dashboards powered by WebSocket & Socket.io
-
-🎨 Scalable, reusable UI components across Angular & React
-
-🔗 End-to-end integration with Node.js & Express backends
-
-🤖 AI tools & prompt engineering to build faster, smarter
-
-</div>
-
-</div>
+> *"I don't just build interfaces—I engineer experiences that remain reliable, scalable, and easy to maintain as products grow."*
 
 ---
 
