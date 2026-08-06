@@ -14,7 +14,7 @@ My focus is on creating scalable applications with clean architecture, reusable 
 
 I enjoy solving real-world challenges, especially those involving **real-time communication**, **interactive dashboards**, and **high-performance frontend applications**.
 
-### 🚀 What I Focus On
+###  What I Focus On
 
 - ⚡ Building scalable Angular & React applications
 - 🧩 Designing reusable and maintainable UI components
