@@ -14,9 +14,10 @@
 
 Clean, maintainable code and **SOLID principles** are non-negotiable — every project is built to be read and extended by someone else, not just to work. Most of the work lives at the intersection of frontend polish and real-time systems: **REST APIs, WebSockets, and live data flows** that actually hold up under bad network conditions.
 
-**Currently Focused On:**
 
 <div align="left">
+
+**Currently Focused On:**
 
 🏙️ Real-time dashboards powered by WebSocket & Socket.io
 
@@ -83,7 +84,7 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 ## 🎓 Education
 
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
-Al-Azhar University, Cairo
+**Al-Azhar University, Cairo**
 
 ---
 
@@ -99,6 +100,5 @@ Al-Azhar University, Cairo
 
 <div align="center">
 
-⋆⋅☆⋅⋆
 
 </div>
