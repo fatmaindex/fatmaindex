@@ -1,0 +1,33 @@
+<svg width="820" height="280" viewBox="0 0 820 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1b1035"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="278" rx="14" fill="url(#termBg)" stroke="#38bdf8" stroke-opacity="0.35"/>
+
+  <!-- window bar -->
+  <rect x="1" y="1" width="818" height="36" rx="14" fill="#241654"/>
+  <rect x="1" y="23" width="818" height="14" fill="#241654"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="24" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#c4b5fd">
+    fatma@dev — zsh
+  </text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="16" fill="#7dd3fc">
+    <text x="28" y="75"><tspan fill="#a855f7">guest@fatma-dev</tspan><tspan fill="#c4b5fd">:~$</tspan> whoami</text>
+    <text x="28" y="100" fill="#e5e7eb">&gt; Fatma Gamal — Frontend Developer, Full-Stack with Node.js</text>
+
+    <text x="28" y="140"><tspan fill="#a855f7">guest@fatma-dev</tspan><tspan fill="#c4b5fd">:~$</tspan> stack --primary</text>
+    <text x="28" y="165" fill="#e5e7eb">&gt; Angular 18+ · React.js · TypeScript · RxJS · TanStack Query</text>
+
+    <text x="28" y="205"><tspan fill="#a855f7">guest@fatma-dev</tspan><tspan fill="#c4b5fd">:~$</tspan> status</text>
+    <text x="28" y="230" fill="#e5e7eb">&gt; building real-time systems that stay reliable when the network doesn't</text>
+
+    <text x="28" y="258"><tspan fill="#a855f7">guest@fatma-dev</tspan><tspan fill="#c4b5fd">:~$</tspan> <tspan fill="#38bdf8">_</tspan></text>
+  </g>
+</svg>
