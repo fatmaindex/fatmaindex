@@ -6,17 +6,25 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 The Dev Behind the Code
+
+<div align="center">
 
 🎯 Frontend Developer specialized in **Angular 18+** and **React.js**, with a Full Stack layer built on **Node.js** and **Express**.
 
 Clean, maintainable code and **SOLID principles** are non-negotiable — every project is built to be read and extended by someone else, not just to work. Most of the work lives at the intersection of frontend polish and real-time systems: **REST APIs, WebSockets, and live data flows** that actually hold up under bad network conditions.
 
 **Currently exploring:**
-- 🏙️ Real-time dashboards powered by WebSocket & Socket.io
-- 🎨 Scalable, reusable UI components across Angular & React
-- 🔗 End-to-end integration with Node.js & Express backends
-- 🤖 AI tools & prompt engineering to build faster, smarter
+
+🏙️ Real-time dashboards powered by WebSocket & Socket.io
+&nbsp;•&nbsp;
+🎨 Scalable, reusable UI components across Angular & React
+&nbsp;•&nbsp;
+🔗 End-to-end integration with Node.js & Express backends
+&nbsp;•&nbsp;
+🤖 AI tools & prompt engineering to build faster, smarter
+
+</div>
 
 ---
 
@@ -62,31 +70,18 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fatmaindex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaindex&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaindex&theme=tokyonight&hide_border=true" width="65%"/>
 
 </div>
 
-> ⚠️ Replace `fatmaindex` above with your exact GitHub username if it's different — these widgets pull live data straight from your GitHub account, no setup needed.
-
 ---
-
-## 🖥️ Terminal
-
-<div align="center">
-
-<img src="assets/profile-terminal.svg" width="85%"/>
-
-</div>
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
-Al-Azhar University, Cairo
+**Al-Azhar University, Cairo**
 
 ---
 
@@ -101,7 +96,5 @@ Al-Azhar University, Cairo
 </div>
 
 <div align="center">
-
-⋆⋅☆⋅⋆
 
 </div>
