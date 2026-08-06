@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 The Dev Behind the Code
+<h2 align="center">👩‍💻 The Dev Behind the Code</h2>
 
 <div align="center">
 
@@ -16,6 +16,8 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 
 **Currently Focused On:**
 
+<div align="right">
+
 🏙️ Real-time dashboards powered by WebSocket & Socket.io
 
 🎨 Scalable, reusable UI components across Angular & React
@@ -23,6 +25,8 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 🔗 End-to-end integration with Node.js & Express backends
 
 🤖 AI tools & prompt engineering to build faster, smarter
+
+</div>
 
 </div>
 
@@ -76,8 +80,6 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 
 ---
 
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
@@ -96,7 +98,5 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 </div>
 
 <div align="center">
-
-⋆⋅☆⋅⋆
 
 </div>
