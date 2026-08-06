@@ -16,7 +16,7 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 
 **Currently Focused On:**
 
-<div align="right">
+<div align="left">
 
 🏙️ Real-time dashboards powered by WebSocket & Socket.io
 
@@ -83,7 +83,7 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 ## 🎓 Education
 
 **Bachelor of Engineering — Systems & Computer Engineering** (2021–2026)
-**Al-Azhar University, Cairo**
+Al-Azhar University, Cairo
 
 ---
 
@@ -98,5 +98,7 @@ Clean, maintainable code and **SOLID principles** are non-negotiable — every p
 </div>
 
 <div align="center">
+
+⋆⋅☆⋅⋆
 
 </div>
