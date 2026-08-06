@@ -1,0 +1,63 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#241654"/>
+      <stop offset="100%" stop-color="#1b1035"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="55%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#7b2ff7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- faint skyline dots, echoing the avatar's city lights -->
+  <g fill="#38bdf8" opacity="0.5">
+    <circle cx="80" cy="60" r="2"/>
+    <circle cx="140" cy="40" r="1.5"/>
+    <circle cx="200" cy="70" r="2"/>
+    <circle cx="1020" cy="50" r="2"/>
+    <circle cx="1080" cy="75" r="1.5"/>
+    <circle cx="1140" cy="45" r="2"/>
+    <circle cx="960" cy="90" r="1.5"/>
+    <circle cx="60" cy="100" r="1.5"/>
+  </g>
+
+  <!-- thin circuit-style lines for a tech feel -->
+  <g stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+    <path d="M0 240 H260 L300 210 H420"/>
+    <path d="M1200 250 H900 L860 220 H760"/>
+  </g>
+
+  <!-- glow duplicate of title for a neon effect -->
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="58" font-weight="700" fill="#a855f7" filter="url(#blur)" opacity="0.6">
+    FATMA GAMAL
+  </text>
+
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="58" font-weight="700" fill="url(#titleGrad)">
+    FATMA GAMAL
+  </text>
+
+  <text x="600" y="195" text-anchor="middle" font-family="Consolas, Menlo, monospace"
+        font-size="19" fill="#c4b5fd">
+    Frontend Developer  •  Angular &amp; React  •  Full-Stack with Node.js
+  </text>
+
+  <text x="600" y="230" text-anchor="middle" font-family="Consolas, Menlo, monospace"
+        font-size="14" fill="#7dd3fc" opacity="0.85">
+    turning designs into fast, clean, real-time web experiences
+  </text>
+</svg>
