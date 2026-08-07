@@ -21,7 +21,6 @@ I enjoy solving real-world challenges, especially those involving **real-time co
 - 🔄 Developing real-time experiences with WebSockets & Socket.io
 - 🔌 Integrating robust REST APIs and backend services
 - 🤖 Exploring AI-powered features to improve user experience
-- 📈 Writing clean, performant, and production-ready code
 
  "I don't just build interfaces—I engineer experiences that remain reliable, scalable, and easy to maintain as products grow."
 
